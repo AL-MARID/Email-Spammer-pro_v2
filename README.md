@@ -2,7 +2,7 @@
 
 - **📝 Description**
 
-Email Spammer is a Python-based tool that allows sending multiple emails to a target using pre-designed templates that mimic messages from popular services like `Google`, `TikTok`, and `Instagram`, with the ability to customize the `button link`. You can use it with `phishing` tools to customize the link and lure victims, or `send custom messages`.
+Email Spammer is a Python-based tool that allows sending multiple emails to a target using pre-designed templates that mimic messages from popular services like `Google`, `TikTok`, and `Instagram`, with the ability to customize the `button link`. You can use it with `phishing` tools to customize the link and lure victims,
 
 · The tool currently uses predefined Gmail accounts  
 · This tool is designed for educational purposes only
