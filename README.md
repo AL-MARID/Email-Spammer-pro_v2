@@ -11,16 +11,13 @@ Email Spammer is a Python-based tool that allows sending multiple emails to a ta
 
 This tool must be used responsibly and in accordance with local laws. The developer is not responsible for any misuse of this tool.
 
-<table align="center">
-  <tr>
-    <td><img src="src/0c10a4d0-a20c-11f0-9b31-55dab93f9308.webp" width="150"></td>
-<td><img src="src/be8ef570-9e8e-11f0-91e1-33d488bd953d.png" width="150"></td>
-<td><img src="src/email_spammer_pro_v2...jpg" width="150"></td>
-<td><img src="src/email_spammer_pro_v2..jpg" width="150"></td>
-<td><img src="src/email_spammer_pro_v2.jpg" width="150"></td>
-    <td><img src="images/Phone.jpg" width="150"></td>
-  </tr>
-</table>
+<div class="simple-gallery">
+  <img src="src/0c10a4d0-a20c-11f0-9b31-55dab93f9308.webp" alt="">
+  <img src="src/be8ef570-9e8e-11f0-91e1-33d488bd953d.png" alt="">
+  <img src="src/email_spammer_pro_v2...jpg" alt="">
+  <img src="src/email_spammer_pro_v2..jpg" alt="">
+  <img src="src/email_spammer_pro_v2.jpg" alt="">
+</div>
 
 - **Download:**
 ```bash
